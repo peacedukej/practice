@@ -1,0 +1,13 @@
+C:\Users\Rabinowitz\source\repos\n2\n2\bin\Debug\netcoreapp3.1\n2.exe
+C:\Users\Rabinowitz\source\repos\n2\n2\bin\Debug\netcoreapp3.1\n2.deps.json
+C:\Users\Rabinowitz\source\repos\n2\n2\bin\Debug\netcoreapp3.1\n2.runtimeconfig.json
+C:\Users\Rabinowitz\source\repos\n2\n2\bin\Debug\netcoreapp3.1\n2.runtimeconfig.dev.json
+C:\Users\Rabinowitz\source\repos\n2\n2\bin\Debug\netcoreapp3.1\n2.dll
+C:\Users\Rabinowitz\source\repos\n2\n2\bin\Debug\netcoreapp3.1\n2.pdb
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.csprojAssemblyReference.cache
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.AssemblyInfoInputs.cache
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.AssemblyInfo.cs
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.csproj.CoreCompileInputs.cache
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.dll
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.pdb
+C:\Users\Rabinowitz\source\repos\n2\n2\obj\Debug\netcoreapp3.1\n2.genruntimeconfig.cache
